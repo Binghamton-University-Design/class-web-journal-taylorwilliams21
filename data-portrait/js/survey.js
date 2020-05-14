@@ -21,7 +21,7 @@ class Answer {
     if(r == this.q) {
       if(!this.is_text) {
         //console.log('not ok:'+ this.imgtext);
-          image(this.img, this.x, this.y, 500, 500);
+          image(this.img, this.x, this.y, 603, 536);
       }
     }
   }
@@ -123,12 +123,12 @@ function loadData(r) {
 
 
 function setup() {
-  var canvas = createCanvas(500, 500);
+  var canvas = createCanvas(603, 536);
   canvas.parent('sketch');
 }
 
 function draw() {
-  background(0,0,0);
+  background(238,248,251);
   //image(bg, 0, 0);
 
   // Display all answers
