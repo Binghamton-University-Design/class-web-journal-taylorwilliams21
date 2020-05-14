@@ -7,7 +7,7 @@
       "Before 6 a.m." : "question1_answer1.png",
       "Between 6 a.m. & 7 a.m." : "question1_answer2.png",
       "Between 7 a.m. & 8 a.m." : "question1_answer3.png",
-      "After 9 a.m." : "question1_answer4.png",
+      "After 9 a.m." : "question1_answer4.png"
     },
     "How do you usually start your day?": {
       "x" : 0,
@@ -15,7 +15,7 @@
       "Coffee" : "question2_answer1.png",
       "Check my phone for any notifications" : "question2_answer2.png",
       "Exercise" : "question2_answer3.png",
-      "Eat breakfast" : "question2_answer4.png",
+      "Eat breakfast" : "question2_answer4.png"
     },
     "Do you incorporate exercise into your daily routine?": {
       "x" : 0,
@@ -23,7 +23,7 @@
       "Yes" : "question3_answer1.png",
       "No" : "question3_answer2.png",
       "Sometimes" : "question3_answer3.png",
-      "Rarely" : "question3_answer4.png",
+      "Rarely" : "question3_answer4.png"
     },
     "If so, what do you focus on?": {
       "x" : 0,
@@ -31,7 +31,7 @@
       "Yoga" : "question4_answer1-01.png",
       "Full Body" : "question4_answer2-01.png",
       "Cardio" : "question4_answer3-01.png",
-      "Getting outside to walk" : "question4_answer4-01.png",
+      "Getting outside to walk" : "question4_answer4-01.png"
     },
     "What answer would you say best describes you?": {
       "x" : 0,
@@ -39,14 +39,14 @@
       "Very active" : "question5_answer1-01.png",
       "Mildly active" : "question5_answer2-01.png",
       "Rarely active" : "question5_answer3-01.png",
-      "Never active" : "question5_answer4-01.png",
+      "Never active" : "question5_answer4-01.png"
     },
     "Do you take any vitamins/supplements everyday to maintain your general health?": {
       "x" : 0,
       "y" : 0,
       "Yes" : "question6_answer1-01.png",
       "No" : "question6_answer2-01.png",
-      "When I remember" : "question6_answer3-01.png",
+      "When I remember" : "question6_answer3-01.png"
     },
     "How many hours of sleep do you get a night?": {
       "x" : 0,
@@ -54,7 +54,7 @@
       "Less than 4 hours" : "question7_answer1-01.png",
       "5-6 hours" : "question7_answer2-01.png",
       "7-8 hours" : "question7_answer3-01.png",
-      "9+ hours" : "question7_answer4-01.png",
+      "9+ hours" : "question7_answer4-01.png"
     },
     "Do you find it easy to keep an everyday routine?": {
       "x" : 0,
@@ -62,15 +62,16 @@
       "Yes" : "question8_answer1-01.png",
       "Sometimes" : "question8_answer2-01.png",
       "No" : "question8_answer3-01.png",
-      "Not right now, but I am trying to get back into it" : "question8_answer4-01.png",
+      "Not right now, but I am trying to get back into it" : "question8_answer4-01.png"
     },
     "Do you watch what you eat in your diet everyday?": {
       "x" : 0,
       "y" : 0,
       "Yes" : "question9_answer1-01.png",
       "Sometimes" : "question9_answer2-01.png",
-      "No" : "question9_answer3-01.png",
-       
+      "No" : "question9_answer3-01.png"
+    }
+  },   
 "data" : [
   {
 
@@ -82,8 +83,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "Yes",
     "How many hours of sleep do you get a night?": "7-8 hours",
     "Do you find it easy to keep an everyday routine?": "Sometimes",
-    "Do you watch what you eat in your diet everyday?": "Sometimes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Sometimes"
   },
   {
     "What time to you tend to wake up?": "Before 6 a.m.",
@@ -94,8 +94,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "No",
     "How many hours of sleep do you get a night?": "7-8 hours",
     "Do you find it easy to keep an everyday routine?": "Sometimes",
-    "Do you watch what you eat in your diet everyday?": "No",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "No"
   },
   {
     "What time to you tend to wake up?": "After 9 a.m.",
@@ -106,8 +105,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "Yes",
     "How many hours of sleep do you get a night?": "7-8 hours",
     "Do you find it easy to keep an everyday routine?": "Not right now, but I am trying to get back into it",
-    "Do you watch what you eat in your diet everyday?": "Yes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Yes"
   },
   {
     "What time to you tend to wake up?": "Between 6 a.m. & 7 a.m.",
@@ -118,8 +116,18 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "Yes",
     "How many hours of sleep do you get a night?": "5-6 hours",
     "Do you find it easy to keep an everyday routine?": "Yes",
-    "Do you watch what you eat in your diet everyday?": "Sometimes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Sometimes"
+  },
+  {
+    "What time to you tend to wake up?": "Between 7 a.m. & 8 a.m.",
+    "How do you usually start your day?": "Check my phone for any notifications",
+    "Do you incorporate exercise into your daily routine?": "Sometimes",
+    "If so, what do you focus on?": "Full Body",
+    "What answer would you say best describes you?": "Mildly active",
+    "Do you take any vitamins/supplements everyday to maintain your general health?": "Yes",
+    "How many hours of sleep do you get a night?": "7-8 hours",
+    "Do you find it easy to keep an everyday routine?": "Yes",
+    "Do you watch what you eat in your diet everyday?": "Yes"
   },
   {
     "What time to you tend to wake up?": "Between 6 a.m. & 7 a.m.",
@@ -130,8 +138,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "When I remember",
     "How many hours of sleep do you get a night?": "7-8 hours",
     "Do you find it easy to keep an everyday routine?": "Not right now, but I am trying to get back into it",
-    "Do you watch what you eat in your diet everyday?": "Sometimes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Sometimes"
   },
   {
     "What time to you tend to wake up?": "Between 6 a.m. & 7 a.m.",
@@ -142,8 +149,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "Yes",
     "How many hours of sleep do you get a night?": "7-8 hours",
     "Do you find it easy to keep an everyday routine?": "Sometimes",
-    "Do you watch what you eat in your diet everyday?": "Sometimes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Sometimes"
   },
   {
     "What time to you tend to wake up?": "Between 7 a.m. & 8 a.m.",
@@ -154,8 +160,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "When I remember",
     "How many hours of sleep do you get a night?": "9+ hours",
     "Do you find it easy to keep an everyday routine?": "Sometimes",
-    "Do you watch what you eat in your diet everyday?": "Sometimes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Sometimes"
   },
   {
     "What time to you tend to wake up?": "Before 6 a.m.",
@@ -166,8 +171,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "When I remember",
     "How many hours of sleep do you get a night?": "9+ hours",
     "Do you find it easy to keep an everyday routine?": "Yes",
-    "Do you watch what you eat in your diet everyday?": "Sometimes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Sometimes"
   },
   {
     "What time to you tend to wake up?": "Between 7 a.m. & 8 a.m.",
@@ -178,8 +182,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "Yes",
     "How many hours of sleep do you get a night?": "7-8 hours",
     "Do you find it easy to keep an everyday routine?": "Sometimes",
-    "Do you watch what you eat in your diet everyday?": "Yes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Yes"
   },
   {
     "What time to you tend to wake up?": "Before 6 a.m.",
@@ -190,20 +193,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "Yes",
     "How many hours of sleep do you get a night?": "7-8 hours",
     "Do you find it easy to keep an everyday routine?": "Yes",
-    "Do you watch what you eat in your diet everyday?": "Yes",
-    "": ""
-  },
-  {
-    "What time to you tend to wake up?": "Between 7 a.m. & 8 a.m.",
-    "How do you usually start your day?": "Check my phone for any notifications",
-    "Do you incorporate exercise into your daily routine?": "Sometimes",
-    "If so, what do you focus on?": "Full Body",
-    "What answer would you say best describes you?": "Mildly active",
-    "Do you take any vitamins/supplements everyday to maintain your general health?": "Yes",
-    "How many hours of sleep do you get a night?": "7-8 hours",
-    "Do you find it easy to keep an everyday routine?": "",
-    "Do you watch what you eat in your diet everyday?": "Yes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Yes"
   },
   {
     "What time to you tend to wake up?": "After 9 a.m.",
@@ -214,8 +204,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "When I remember",
     "How many hours of sleep do you get a night?": "9+ hours",
     "Do you find it easy to keep an everyday routine?": "Sometimes",
-    "Do you watch what you eat in your diet everyday?": "Sometimes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Sometimes"
   },
   {
     "What time to you tend to wake up?": "Between 7 a.m. & 8 a.m.",
@@ -226,8 +215,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "Yes",
     "How many hours of sleep do you get a night?": "5-6 hours",
     "Do you find it easy to keep an everyday routine?": "Yes",
-    "Do you watch what you eat in your diet everyday?": "Sometimes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Sometimes"
   },
   {
     "What time to you tend to wake up?": "After 9 a.m.",
@@ -238,8 +226,7 @@
     "Do you take any vitamins/supplements everyday to maintain your general health?": "When I remember",
     "How many hours of sleep do you get a night?": "7-8 hours",
     "Do you find it easy to keep an everyday routine?": "Not right now, but I am trying to get back into it",
-    "Do you watch what you eat in your diet everyday?": "Sometimes",
-    "": ""
+    "Do you watch what you eat in your diet everyday?": "Sometimes"
   }
 ]
 }

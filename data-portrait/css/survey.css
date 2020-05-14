@@ -1,10 +1,5 @@
 @import url("/css/normalize.css");
 
-@font-face {
-  font-family: C-Medium;
-  src: url('/css/CeraPRO-MediumItalic.WOFF');
-}
-
 /* vars */
 :root {
   --background-color: #000000;
@@ -26,7 +21,7 @@ body {
     text-align: left;
     margin: 0;
     color: var(--body-color);
-    font-family: 'C-Medium', Helvetica, sans-serif; 
+    font-family: Helvetica, sans-serif; 
     font-size: 12px;
     font-weight: 400;
     line-height: 1.6;
@@ -65,14 +60,14 @@ body {
 #portrait-info a {
   transition: color, background-color .35s ease-in-out;
   padding: 3px 5px;
-  color: #c9084c;
+  color: #fff;
   text-decoration: none;
-  background-color: #efad1b;
+  background-color: #679c9c;
 }
 
 #portrait-info a:hover {
-  background-color: #c9084c;
-  color: #efad1b;
+  background-color: #fff;
+  color: #679c9c;
 }
 
 #sketch-over {
