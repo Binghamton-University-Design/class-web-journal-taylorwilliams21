@@ -21,7 +21,7 @@ class Answer {
     if(r == this.q) {
       if(!this.is_text) {
         //console.log('not ok:'+ this.imgtext);
-          image(this.img, this.x, this.y, 603, 536);
+          image(this.img, this.x, this.y, 500, 500);
       }
     }
   }
@@ -123,7 +123,7 @@ function loadData(r) {
 
 
 function setup() {
-  var canvas = createCanvas(603, 536);
+  var canvas = createCanvas(500, 500);
   canvas.parent('sketch');
 }
 
